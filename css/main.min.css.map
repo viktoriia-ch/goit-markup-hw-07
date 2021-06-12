@@ -10,7 +10,7 @@
         "../sass/base/_container.scss",
         "../sass/components/_menu.scss",
         "../sass/components/_logo.scss",
-        "../sass/components/contact-list.scss",
+        "../sass/components/_contact-list.scss",
         "../sass/components/_title.scss",
         "../sass/components/_social-list.scss",
         "../sass/components/_modal-btn.scss",
